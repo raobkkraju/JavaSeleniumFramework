@@ -7,6 +7,7 @@ public class GitPractice {
         System.out.println("GitPractice-1");
         System.out.println("GitPractice-2");
         System.out.println("GitPractice-3");
+        System.out.println("GitPractice-6");
 	}
 
 }
